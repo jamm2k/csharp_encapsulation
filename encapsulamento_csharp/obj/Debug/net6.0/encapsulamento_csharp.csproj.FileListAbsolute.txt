@@ -1,0 +1,15 @@
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\encapsulamento_csharp.csproj.AssemblyReference.cache
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\encapsulamento_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\encapsulamento_csharp.AssemblyInfoInputs.cache
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\encapsulamento_csharp.AssemblyInfo.cs
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\encapsulamento_csharp.csproj.CoreCompileInputs.cache
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\bin\Debug\net6.0\encapsulamento_csharp.exe
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\bin\Debug\net6.0\encapsulamento_csharp.deps.json
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\bin\Debug\net6.0\encapsulamento_csharp.runtimeconfig.json
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\bin\Debug\net6.0\encapsulamento_csharp.dll
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\bin\Debug\net6.0\encapsulamento_csharp.pdb
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\encapsulamento_csharp.dll
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\refint\encapsulamento_csharp.dll
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\encapsulamento_csharp.pdb
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\encapsulamento_csharp.genruntimeconfig.cache
+D:\Projetos\CSharp\encapsulamento_csharp\encapsulamento_csharp\encapsulamento_csharp\obj\Debug\net6.0\ref\encapsulamento_csharp.dll
