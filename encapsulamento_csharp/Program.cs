@@ -23,3 +23,15 @@ if (inicial == 's' || inicial == 'S')
 Console.WriteLine();
 Console.WriteLine("Dados da conta: ");
 Console.WriteLine(conta1);
+
+Console.WriteLine();
+Console.WriteLine("Digite um valor para depósito: ");
+double deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+conta1.Deposito(deposito);
+Console.WriteLine(conta1);
+
+Console.WriteLine();
+Console.WriteLine("Digite um valor para o saque: ");
+double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+conta1.Saque(saque);
+Console.WriteLine(conta1);
